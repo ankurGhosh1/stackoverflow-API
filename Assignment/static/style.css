@@ -1,0 +1,28 @@
+h3{
+    padding: 2%; text-align: center;
+}
+
+form{
+    padding: 2%;
+}
+.wrapper{
+    width: 100%; text-align: center; padding: 2%;
+} 
+.btn{
+    width: 30%; 
+}
+.card-wrapper{
+    padding: 2%; height: 95vh; overflow-y: scroll;
+}
+.card{
+    width: 50%; margin: 0 auto;
+}
+.pagination{
+    width: 7%; margin: 0 auto;
+}
+.page-item{
+    margin: 0 auto;
+}
+.dpic{
+    width: 200px; height: 200px;
+}
